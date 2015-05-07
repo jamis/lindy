@@ -2,6 +2,10 @@
 
 Lindy is a simple implementation of an L-system parser and interpreter. It is intended primarily as a platform for exploring and experimenting.
 
+## Dependencies
+
+Just Ruby 2, and ChunkyPNG (for image generation).
+
 ## Author
 
 Jamis Buck (jamis@jamisbuck.org)
