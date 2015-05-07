@@ -1,0 +1,10 @@
+start: "[N]++[N]++[N]++[N]++[N]"
+angle: 36
+step: 16
+order: 5
+rules:
+  M: "OF++PF----NF[-OF----MF]++"
+  N: "+OF--PF[---MF--NF]+"
+  O: "-MF++NF[+++OF++PF]-"
+  P: "--OF++++MF[+PF++++NF]--NF"
+  F: ""

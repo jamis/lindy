@@ -1,0 +1,7 @@
+start: "X"
+angle: 25
+order: 6
+step: 3
+rules:
+  X: "F-[[X]+X]+F[+FX]-X"
+  F: "FF"

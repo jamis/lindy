@@ -1,0 +1,7 @@
+start: "XF"
+angle: 60
+step: 6
+order: 4
+rules:
+  X: "X+YF++YF-FX--FXFX-YF+"
+  Y: "-FX+YFYF++YF+FX--FX-Y"

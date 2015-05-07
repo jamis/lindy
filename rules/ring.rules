@@ -1,0 +1,7 @@
+start: "X"
+left-angle: 88
+right-angle: 92
+step: 10
+order: 30
+rules:
+  X: "-FF+FF+F+F-F-FFX"

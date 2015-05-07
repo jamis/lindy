@@ -1,0 +1,7 @@
+start: "FX"
+angle: 90
+step: 1
+order: 17
+rules:
+  X: "X+YF+"
+  Y: "-FX-Y"

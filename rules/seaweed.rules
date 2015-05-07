@@ -1,0 +1,6 @@
+start: "F"
+angle: 22
+step: 10
+order: 4
+rules:
+  F: "FF-[-F+F+F]+[+F-F-F]"
